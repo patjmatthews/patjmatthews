@@ -9,7 +9,7 @@
     float: initial;
 }
 #card1{
-    background-image: url("nickcagebees.jpg");
+    background-image: url("../images/nickcagebees.jpg");
     height: 75%;
     width: 100%;
     position: absolute;
